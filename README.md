@@ -21,6 +21,12 @@ Recipe Box treats recipes the same way Obsidian treats everything else: as notes
 
 </span>
 
+> ### 🌐 This fork: Russian language support
+>
+> Это форк для перевода проекта [AdamArcane/obsidian-recipebox](https://github.com/AdamArcane/obsidian-recipebox).
+> Ведется работа над полным русским переводом плагина без иных изменений.
+
+
 
 <img width="800"  alt="device-mockup" src="https://github.com/user-attachments/assets/f71bde46-511a-41e9-9a60-3bde915a4748" />
 
